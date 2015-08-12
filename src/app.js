@@ -1,4 +1,4 @@
-var BASE_URL = '../php/';
+var BASE_URL = 'php/';
 var angularTodo = angular.module('lostsysApp', []);
  
 function mainController($scope, $http) {
